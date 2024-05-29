@@ -1,0 +1,8 @@
+CONSOLE-COMMAND: "<red>Only players can use this command!"
+NO-PERMISSIONS: "<red>You do not have permission to use this command!"
+
+STAFF-CHAT:
+  ENABLED: "<green>Staff Chat Enabled."
+  DISABLED: "<red>Staff Chat Disabled."
+  FORMAT: "<dark_gray>[<aqua>StaffChat<dark_gray>] <white>⇢ <red>{player}<gray>: <white>{message}"
+  USAGE: "<red>Usage: /staffchat <message> or /staffchat toggle"
